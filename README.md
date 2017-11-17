@@ -1,4 +1,4 @@
-                                        Cal-O-Meter – A calorie tracking application
+# Calometer - A diet tracking application
 
 The various product functions include: 
 
